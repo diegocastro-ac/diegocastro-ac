@@ -9,9 +9,8 @@
 
 ## 👤 &nbsp;Sobre mí
 
-- 👨‍💻 Ingeniero de Sistemas en formación y desarrollador freelance, creando y aprendiendo con cada proyecto.
+- 👨‍💻 Ingeniero de Sistemas en formación, creando y aprendiendo con cada proyecto.
 - 💬 Datos y desarrollo web.
-- 🌱 Explorando Astro y pronto PySpark.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -19,18 +18,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🖥️ Frameworks
+#### 🖥️ Librerías y Frameworks
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/FilamentPHP-FDAE4B.svg?style=for-the-badge&logo=filament&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-#### 📚 Librerías 
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FDAE4B.svg?style=for-the-badge&logo=filament&logoColor=white)
 
 #### 🗂️ Bases de Datos 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,12 +34,11 @@
 
 #### 🔧 Herramientas
 
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
- ### 🪪 Resumen del último año
+ ### 🪪 Resumen
  
  <div align=center>
    
