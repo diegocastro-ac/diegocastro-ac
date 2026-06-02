@@ -22,7 +22,6 @@
 #### 🖥️ Librerías y Frameworks
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FDAE4B.svg?style=for-the-badge&logo=filament&logoColor=white)
 
@@ -38,16 +37,9 @@
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
- ### 🪪 Resumen
- 
- <div align=center>
-   
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoacastro22&theme=github_dark)
- </div>
-
 ### 🔗 &nbsp;Contacto
 
-<div align="center">
+<div>
 <a href="mailto:diegocastroac18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/diegoacastro22/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diegoandrescastrocarvajal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
